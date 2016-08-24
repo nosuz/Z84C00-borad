@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT240XS
+D FTDI USB 8-BIT FIFO
+K USB FIFO
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT240X.pdf
+$ENDCMP
+#
+#End Doc Library
