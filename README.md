@@ -2,8 +2,8 @@
 
 This board is designed for running CP/M.
 
-|||
-|:--|:-|
+|Item|Spec|
+|:--|:--|
 |CPU|Z84C00|
 |Memory Size|128KiB|
 |CPU Clock|Max. 14MHz|
